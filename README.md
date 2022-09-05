@@ -2,9 +2,8 @@
 
 Stack:
 
-// Architectural Components
+
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0"
-    // Room
     implementation "androidx.room:room-runtime:2.2.5"
     kapt "androidx.room:room-compiler:2.2.5"
     // Kotlin Extensions and Coroutines support for Room
